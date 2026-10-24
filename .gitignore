@@ -1,0 +1,7 @@
+/gogogo
+/gogogo.exe
+*.test
+coverage.out
+*.prof
+.DS_Store
+Thumbs.db
